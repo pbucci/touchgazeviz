@@ -1,0 +1,30 @@
+body {
+/*	background-color: grey; */
+
+}
+#heatmap_container{}
+.heatmap {
+	width:500px;
+	height:500px;
+	background-color: black;
+	float:left;
+	margin:10px 10px 10px 0px;
+}
+.heatmap_name {
+	width:990px;
+	height:40px;
+	border:10px solid  #003366;
+	background-color: #003366;
+	margin-top:10px;
+}
+.heatmap_wrapper {
+	width:1020px;
+	float:left;
+}
+.name {
+	margin:0;
+	font-size:35px;
+	font-weight: bolder;
+	color: #6699CC;
+	font-family: Myriad Pro, Myriad, Arial, sans-serif;
+}

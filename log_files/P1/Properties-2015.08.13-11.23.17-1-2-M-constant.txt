@@ -1,0 +1,9 @@
+Recording started: 13.8.2015 11:23:17
+Gaze off duration: 500 milliseconds
+Robot coordinate thresholds, left: 1491,12918757943
+Robot coordinate thresholds, right: 35,9916439796551
+Robot coordinate thresholds, front: 42,1344306600039
+Robot coordinate thresholds, back: 905,447616096183
+
+Recording ended: 13.8.2015 11:23:27
+Recording duration: 00:00:10 (9996 milliseconds)
